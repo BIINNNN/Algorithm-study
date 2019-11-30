@@ -1,0 +1,10 @@
+﻿  MAX_DAC.cpp
+c:\users\빈이원이\source\repos\maximum subarray problem\maximum subarray problem\max_dac.cpp(16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+c:\users\빈이원이\source\repos\maximum subarray problem\maximum subarray problem\max_dac.cpp(18): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(242): note: 'freopen' 선언을 참조하십시오.
+c:\users\빈이원이\source\repos\maximum subarray problem\maximum subarray problem\max_dac.cpp(19): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\빈이원이\source\repos\maximum subarray problem\maximum subarray problem\max_dac.cpp(25): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+  Maximum Subarray Problem.vcxproj -> C:\Users\빈이원이\source\repos\Maximum Subarray Problem\Debug\Maximum Subarray Problem.exe
